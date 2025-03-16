@@ -20,7 +20,9 @@ Funcionalidades
 
 <center><img src="https://github.com/Gloriaalvespinheiro/amigo-secreto/raw/main/assets/screen-capture-ezgif.com-video-to-gif-converter.gif" alt="Demonstração do Amigo Secreto"></center>
 
+Esse gif é uma demonstração da funcionalidade do amigo secreto.
 
+Detalhe: Pode ser usado via online através do Meet ou Zoom.
 
 
 
