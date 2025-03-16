@@ -20,6 +20,8 @@ Funcionalidades
 
 !{demontração do Gif}(https://github.com/Gloriaalvespinheiro/amigo-secreto/raw/main/assets/screen-capture-ezgif.com-video-to-gif-converter.gif)
 
+<center><img src="https://github.com/Gloriaalvespinheiro/amigo-secreto/raw/main/assets/screen-capture-ezgif.com-video-to-gif-converter.gif" alt="Demonstração do Amigo Secreto"></center>
+
 
 
  
