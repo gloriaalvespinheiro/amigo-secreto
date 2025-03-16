@@ -18,9 +18,6 @@ Funcionalidades
 
 *Interface simples e intuitiva
 
-https://github.com/Gloriaalvespinheiro/amigo-secreto/ram/main/assets/screen-capture-ezgif.com-video-to-gif-converter.gif
-
-https://github.com/Gloriaalvespinheiro/amigo-secreto/blob/main/assets/screen-capture-ezgif.com-video-to-gif-converter.gif
 
 
  
